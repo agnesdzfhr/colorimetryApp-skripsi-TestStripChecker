@@ -1,0 +1,73 @@
+{
+	"info": {
+		"_postman_id": "16574457-cd03-42a3-8880-78c843dcf82a",
+		"name": "Matlab",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Matlab",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{ \"nargout\":1, \"rhs\":[10000,0.08,0.06,40] }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:9910/skripsi/mymagic",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9910",
+					"path": [
+						"skripsi",
+						"mymagic"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Post Photo",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "image",
+							"type": "file",
+							"src": []
+						}
+					]
+				},
+				"url": {
+					"raw": "http://127.0.0.1:3000/image",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "3000",
+					"path": [
+						"image"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

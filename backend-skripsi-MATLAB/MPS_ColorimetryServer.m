@@ -7,7 +7,8 @@ load('C:\Users\ASUS\OneDrive - UNIVERSITAS INDONESIA\Documents\ColorimetryNew\AN
 
 File = convertStringsToChars(InputData);
 
-% Description
+% Description:
+% Adjust the Address on your PC
 % input: image file
 %        sample information
 %        smart phone information

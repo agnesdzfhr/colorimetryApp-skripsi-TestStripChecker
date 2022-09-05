@@ -6,8 +6,8 @@ For taking pictures, a measurement box is needed. The measurement box that has b
 ## Measurement Box
 
 <div width="250px">
-  <img src="https://user-images.githubusercontent.com/93637835/188461101-74e9497b-4f7d-4b30-8ba9-8c6d21d03759.png" width="600px">
-  <img src="https://user-images.githubusercontent.com/93637835/188461118-63493543-26ec-413f-9480-40db4ce0fc9c.png" width="400px">
+  <img src="https://user-images.githubusercontent.com/93637835/188461101-74e9497b-4f7d-4b30-8ba9-8c6d21d03759.png" width="500px">
+  <img src="https://user-images.githubusercontent.com/93637835/188461118-63493543-26ec-413f-9480-40db4ce0fc9c.png" width="300px">
 </div>
 
 

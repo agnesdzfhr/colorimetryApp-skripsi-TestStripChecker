@@ -1,6 +1,16 @@
 # colorimetryApp-skripsi-TestStripChecker
 This is Test Strip Checker (Android App) based on colorimetry for a water test strip with total chlorine analyte.
 
+For taking pictures, a measurement box is needed. The measurement box that has been made can be found in the F building, Physics FMIPA University of Indonesia
+
+## Measurement Box
+
+<div width="250px">
+  <img src="https://user-images.githubusercontent.com/93637835/188461101-74e9497b-4f7d-4b30-8ba9-8c6d21d03759.png" width="600px">
+  <img src="https://user-images.githubusercontent.com/93637835/188461118-63493543-26ec-413f-9480-40db4ce0fc9c.png" width="400px">
+</div>
+
+
 
 ## Examples
 
@@ -15,4 +25,6 @@ This is Test Strip Checker (Android App) based on colorimetry for a water test s
 <div align="center"><img src="https://user-images.githubusercontent.com/93637835/188448394-38242d5c-4ea2-476f-b710-576b4580c019.png" width="50px"></div>
 <div align="center"><img src="https://user-images.githubusercontent.com/93637835/188441683-cfba4692-dddd-43df-9a3e-651cf5292904.png" width="220px"></div>
 <p align="center"> Get Result of Total Chlorine in ppm (this uses the MPS server) </p>
+
+
 
